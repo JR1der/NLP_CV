@@ -1,0 +1,42 @@
+Machine Learning Engineer, Intern (m/f/d)
+Praktikum/Werkstudium bei Maddox AI, Vollzeit · Tübingen/Berlin/Köln/Remote
+
+YOUR MISSION
+We are looking for a stellar intern in machine learning who is passionate about cutting-edge machine vision topics such as image-conditioned object detection, feature matching, semantic segmentation, uncertainty estimation, image registration, self-supervised learning, unsupervised domain adaptation, transformer architectures, graph neural networks, anomaly detection, etc. As part of our machine learning team, you will solve challenging computer vision problems with real-world datasets of manufacturers and develop innovative AI-based features for our product. You will work closely with experienced machine learning engineers and researchers, but you will also interact with customer success managers, software and hardware engineers, so that you learn about and contribute to the full process of bringing ML solutions to the factory floor. In short, your journey with us will lead you to:
+
+Research, prototype, and develop state-of-the-art deep learning models together with other machine learning engineers to create novel and innovative machine learning solutions that solve the manufacturing problems of our clients
+Train deployment-ready AI models available through our Maddox platform for our customers
+Create large, efficient and automated data processing and machine learning pipelines that scale across many customers and applications
+Test and develop new ML-based product features (together with our tech and business team)
+YOUR PROFILE
+
+
+Basic qualifications
+
+You are currently pursuing a Bachelor, Master or PhD degree in computer science or related technical field, or you have equivalent practical experience
+Solid understanding of Machine Learning and Deep Learning. Ability to implement, debug, and deploy deep learning models in PyTorch, either from scratch or inspired from public libraries or Github repositories.
+
+Preferred qualifications
+
+Industry experience developing enterprise or data products
+Experience or knowledge in manufacturing industry
+End-to-end experience of developing computer vision applications from scratch and continuously improving at production
+Experience with deploying models to edge computing platforms like Nvidia Jetson using ONNX, TensorRT, etc.
+Experience with modelling tabular data (neural networks, XGBoost, …)
+Experience with multi-partners research projects
+Note that preferred qualifications are just that: preferred. None of us started out with all boxes ticked. If some of these points apply to you, we definitely want to talk.
+
+WHY US?
+
+We work in flat hierarchies, value direct communication, learn a lot as a team and make important decisions together. At Maddox AI you can expect the following benefits:
+Independent work on projects in the field of artificial intelligence / Industry 4.0
+Flat hierarchies, ownership, autonomy, a growth perspective and very good development opportunities
+A dynamic and motivated team with great colleagues (with experience from BCG, IBM, SAP, Cyber Valley, etc.)
+The possibility to work flexibly in Tübingen (preferred), Berlin, Cologne or remotely within Germany (relocating to Germany is needed for the duration of the internship).
+Regular team events
+Diversity is very important to us! We welcome all applications regardless of gender, nationality, social and ethnic origin, disability, sexual orientation and identity.
+ABOUT US
+
+Our product, Maddox AI, is an AI-based visual quality control solution, which can automate manually performed quality inspection for manufacturing companies. Maddox AI is an asset-light SaaS solution, which addresses those visual inspection tasks that are still performed manually, as conventional (=rule-based) computer vision methods fail. In product development, we closely collaborate with leading AI researchers from the Cyber Valley. Prof. Dr. Matthias Bethge, Prof. Dr. Alexander Ecker and Dr. Wieland Brendel have been researching in the field of machine learning and computer vision for years and are part of our founding team.
+
+Maddox AI is used by DAX-30 companies as well as by large medium-sized enterprises. Our team consists of scientists, former strategy consultants, mechanical engineers, and software developers. We know that Maddox AI's success is only made possible by our unique team. As we continue to grow, we want to convince the best and brightest minds of our mission to establish Maddox as the modern quality management platform.
